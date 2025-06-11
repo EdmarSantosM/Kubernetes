@@ -1,0 +1,4 @@
+
+minikube start --nodes 3 --kubernetes-version=v1.32.3 -p homelab
+
+kubectl get nodes
