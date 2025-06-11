@@ -2,4 +2,4 @@
 
 Hands on K8s
 
-# Projeto guiado e prático de Kubernetes 
+# Projeto guiado prático de Kubernetes 
