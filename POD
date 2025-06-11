@@ -6,3 +6,5 @@ kubectl get nodes
 kubectl run webapp-123 --image=nginx
 
 kubectl get pods
+
+kubectl describe pods webapp-123
